@@ -8,6 +8,7 @@ This validator is especially useful when you use redux as hashmaps are recommend
 you state. To know more about state management see https://redux.js.org/docs/faq/OrganizingState.html#how-do-i-organize-nested-or-duplicate-data-in-my-state
 
 ## Install
+This module depends on module [prop-types](https://www.npmjs.com/package/prop-types)
 
 Run `npm install hashmap-prop-type` or `yarn add hashmap-prop-type`
 

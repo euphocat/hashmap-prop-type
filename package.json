@@ -1,6 +1,6 @@
 {
   "name": "hashmap-prop-type",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A custom prop type validator for hash maps",
   "main": "dist/index.js",
   "scripts": {
@@ -20,6 +20,9 @@
   "license": "ISC",
   "repository": "euphocat/hashmap-prop-type",
   "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "peerDependencies": {
     "prop-types": "^15.6.0"
   },
   "devDependencies": {
