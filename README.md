@@ -17,8 +17,8 @@ Run `npm install hashmap-prop-type` or `yarn add hashmap-prop-type`
 ```jsx harmony
 import React from 'react';
 import PropTypes from 'prop-types';
-// import the default function from the package, use require('hashmap-proptype').default for common js
-import hashmapPropType from 'hashmap-proptype';
+// import the default function from the package, use require('hashmap-prop-type').default for common js
+import hashmapPropType from 'hashmap-prop-type';
 
 class MyComponent extends React.Component {
   static propTypes = {
